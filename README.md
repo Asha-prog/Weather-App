@@ -1,0 +1,2 @@
+I have build a weather app which describes weather condition of an particular city. You can search by city name and clicking on the button the weather condition will appear.I took the help of API to get the real time temperature ,humidity etc .I build this project using HTML ,CSS ,JavaScript ,API and React.JS.I build this in my local enviroment.
+Steps to follow :use command "npm run dev" in the terminal->get the localhost address->put address in the web browser->project will run->enter the city name->get the weather info.
